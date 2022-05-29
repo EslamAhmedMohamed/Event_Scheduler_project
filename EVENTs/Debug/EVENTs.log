@@ -1,0 +1,7 @@
+﻿  Event.cpp
+C:\Users\go\Desktop\ds project\EVENTs\EVENTs\Event.cpp(93,16): warning C4101: 'r': unreferenced local variable
+C:\Users\go\Desktop\ds project\EVENTs\EVENTs\Event.cpp(261,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\go\Desktop\ds project\EVENTs\EVENTs\Event.cpp(427,19): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+  EVENTs.vcxproj -> C:\Users\go\Desktop\ds project\EVENTs\Debug\EVENTs.exe
